@@ -18,6 +18,8 @@ public class Holamundo {
         // TODO code application logic here
         
         System.out.println ("¡Hola mundo!"); // Mostrar la cadena
+        System.out.println ("¡Que tal!"); // Mostrar la cadena
+        System.out.println ("¡holaaa!"); // Mostrar la cadena
     }
     
 }
