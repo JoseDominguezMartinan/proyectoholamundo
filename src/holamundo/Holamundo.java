@@ -20,6 +20,10 @@ public class Holamundo {
         System.out.println ("¡Hola mundo!"); // Mostrar la cadena
         System.out.println ("¡Que tal!"); // Mostrar la cadena
         System.out.println ("¡holaaa!"); // Mostrar la cadena
+        //PROYECTO MODIFICADO POR DAVID
+        System.out.println("Hola");
+        System.out.println("Hola, soy David");
+        
     }
     
 }
